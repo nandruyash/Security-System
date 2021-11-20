@@ -8,7 +8,7 @@ int main()
     string line,old,pass1,pass2,pass;
     cout<<"******* SECURITY SYSTEM PROGRAM *******";
     do{
-    cout<<endl<<endl<<<<endl;
+    cout<<endl<<endl<<endl;
     cout<<"* 1 ->       change the password      *"<<endl;
     cout<<"* 2 ->  go to login panel to see data *"<<endl;
     cout<<"* 3 ->       quit the program         *"<<endl;
